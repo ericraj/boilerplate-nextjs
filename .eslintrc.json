@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "plugin:tailwindcss/recommended",
+    "next/core-web-vitals",
+    "next/typescript"
+  ],
+  "rules": {
+    "tailwindcss/no-custom-classname": "off"
+  }
+}

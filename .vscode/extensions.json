@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "rohit-gohri.format-code-action",
+    "SonarSource.sonarlint-vscode",
+    "yoavbls.pretty-ts-errors",
+    "bradlc.vscode-tailwindcss",
+    "kisstkondoros.vscode-codemetrics"
+  ]
+}
